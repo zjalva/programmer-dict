@@ -3,8 +3,8 @@
 	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
 	version="2.5">
 
-	<display-name>margin</display-name>
-	<description> 融资融券决策管理系统 </description>
+	<display-name>ITDict</display-name>
+	<description> ITDict </description>
 
 	<context-param>
 		<param-name>webAppRootKey</param-name>

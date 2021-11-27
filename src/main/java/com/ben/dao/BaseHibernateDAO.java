@@ -8,10 +8,7 @@ import org.hibernate.jdbc.Work;
 import com.ben.entity.BaseEntity;
 import com.ben.util.Pagination;
 
-/**
- * @author michael 2013-3-18 下午1:36:59
- * @version V1.0
- */
+
 public interface BaseHibernateDAO {
     /**
      * flush

@@ -11,15 +11,7 @@ import org.codehaus.jackson.map.annotate.JsonSerialize;
 
 import com.ben.util.TimeSerializer;
 
-/**
- * @Title: AbstractEntity.java
- * Copyright: Copyright (c) 2013 
- * Company:安融科技有限公司
- * 
- * @author michael
- * 2013-3-29 上午9:59:07
- * @version V1.0
- */
+
 @MappedSuperclass
 public abstract class AbstractEntity implements Serializable, Cloneable {
 

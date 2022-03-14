@@ -15,6 +15,6 @@ public class P1 {
         hs.stream().forEach(d -> System.out.println(d));
 
         System.out.println("Stream");
-
+        System.out.println("Stream2");
     }
 }

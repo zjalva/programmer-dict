@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 public class P1 {
     public static void main(String[] args) {
         Stream  is= Stream.of(1,4,6,8,9);
-System.out.println("0");
+System.out.println("01");
         HashSet hs=(HashSet)is.collect(Collectors.toCollection(LinkedHashSet::new));
 
         hs.stream().forEach(d -> System.out.println(d));

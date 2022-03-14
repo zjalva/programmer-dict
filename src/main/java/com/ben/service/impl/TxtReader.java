@@ -12,9 +12,7 @@ public class TxtReader implements Reader{
 	@Override
 	public void init(String filePath) throws  Exception {
 		fr = new FileReader(filePath);  
-        bufferedreader = new BufferedReader(fr);  
-       
-		
+        bufferedreader = new BufferedReader(fr);
 	}
 
 	@Override
